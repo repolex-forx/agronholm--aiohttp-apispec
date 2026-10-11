@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "aiohttp-apispec",
+  "versions": [
+    {
+      "commit": "9a53408740780e9758b186742bb8898df2a25646",
+      "parsed_at": "2026-10-11T20:48:42.818971+00:00",
+      "filetree": "filetree/9a53408740780e9758b186742bb8898df2a25646.nq.gz",
+      "blobs": [
+        "blob/792dba2ca958c701357b92c04ba647fe3d7821d7.nq.gz",
+        "blob/74673eba18af0aa2b239d8e23c62513e2f330f9d.nq.gz",
+        "blob/e1373e891c6ca030ce131a95b8f2db90ec9f5779.nq.gz",
+        "blob/255dd067acbe7e4a2a772a6cf2e8c4aca362d49f.nq.gz",
+        "blob/e757cb87f2a80e8f2cea970011f9192bcb8afc49.nq.gz",
+        "blob/517d0df1bafc14c25306133e62ede3254fea44f9.nq.gz",
+        "blob/562c640dbecb4804197f5d4e814fdb09f32d2dca.nq.gz",
+        "blob/aa42f797715d2e71f626208aaa477d7d71ce24d4.nq.gz",
+        "blob/a7543a349e2a91851e8c5de8792a9343370669c6.nq.gz",
+        "blob/63db27958d2dc46c002f6268f28e25c7ff20e3ff.nq.gz",
+        "blob/29e1cc402d5fc7e7836bb14cef474c7b345ee78c.nq.gz",
+        "blob/8e8524e93c5e696c258384465c0564788a371067.nq.gz",
+        "blob/91bbd7cc325301889886fbeb5aa3f0c3ca1e18e0.nq.gz",
+        "blob/e964255e96a27b8d529070beeb5031eea9d6e6e5.nq.gz",
+        "blob/bd7ae23bccb557d442ab6d0d00e9919f68ed67d2.nq.gz",
+        "blob/95e5992ae8a148f2a3ec1a317620d5e4b91875a1.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/bb2a7f4c4fa9e3db5f4a73a4f7157783f1450f62.nq.gz",
+        "blob/4aa289c2ec8ca46ff8ddee87af8706c3e40d8dbb.nq.gz",
+        "blob/a8b46164ab9ee6eef54cdacfe43b0d21aa5cbe0a.nq.gz",
+        "blob/7c96277faf7679fbb00712a2f5433317c0b130f2.nq.gz",
+        "blob/fbdb3fae226004d01eed8bd3ad40e75797e93798.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
