@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/aiohttp-apispec/commit/9a53408740780e9758b186742bb8898df2a25646",
       "git:hexsha": "9a53408740780e9758b186742bb8898df2a25646",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T20:52:19.683460+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/aiohttp-apispec/commit/a17a68f47e27c773844fdea9653654af7b0bf009",
