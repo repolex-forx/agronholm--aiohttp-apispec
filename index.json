@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "aiohttp-apispec",
+  "versions": [
+    {
+      "commit": "9a53408740780e9758b186742bb8898df2a25646",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:52:19.683963+00:00"
+    }
+  ]
+}
